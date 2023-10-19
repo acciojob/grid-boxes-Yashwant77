@@ -10,8 +10,8 @@
 	 font-size:25px;
 	display:grid;
 	background-color:white;
-	grid-template-column:1fr 1fr 1fr 1fr;
-	grid-template-row:1fr 1fr 1fr 1fr 1fr;
+	grid-template-columns:1fr 1fr 1fr 1fr;
+	grid-template-rows:1fr 1fr 1fr 1fr 1fr;
 	 grid-template-areas:"a a a a"
 	"b c d d"
 	"b e e f "

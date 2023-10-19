@@ -1,5 +1,9 @@
 /*  your css code here. If applicable */
- #grid{
+ *{
+	 margin:0px;
+	 padding:0px;
+ }
+#grid{
 	width:100vw;
 	height:100vh;
 	color:white;
